@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: blue, Configuration: Debug Any CPU ------
+1>  blue -> C:\Users\Osama\Documents\Visual Studio 2013\Projects\blue\blue\bin\Debug\blue.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

@@ -1,0 +1,9 @@
+c:\users\osama\documents\visual studio 2013\Projects\blue\blue\bin\Debug\blue.exe.config
+c:\users\osama\documents\visual studio 2013\Projects\blue\blue\bin\Debug\blue.exe
+c:\users\osama\documents\visual studio 2013\Projects\blue\blue\bin\Debug\blue.pdb
+c:\users\osama\documents\visual studio 2013\Projects\blue\blue\obj\Debug\blue.csprojResolveAssemblyReference.cache
+c:\users\osama\documents\visual studio 2013\Projects\blue\blue\obj\Debug\blue.text2image.resources
+c:\users\osama\documents\visual studio 2013\Projects\blue\blue\obj\Debug\blue.Properties.Resources.resources
+c:\users\osama\documents\visual studio 2013\Projects\blue\blue\obj\Debug\blue.csproj.GenerateResource.Cache
+c:\users\osama\documents\visual studio 2013\Projects\blue\blue\obj\Debug\blue.exe
+c:\users\osama\documents\visual studio 2013\Projects\blue\blue\obj\Debug\blue.pdb
